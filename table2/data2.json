@@ -1,0 +1,25 @@
+{
+  "dataUser": [
+    {
+      "id": 1,
+      "nom": "dddd",
+      "adress": "24 rue du centre",
+      "statut": "troisieme",
+      "signal": "green"
+    },
+    {
+      "nom": "premier",
+      "adress": "deuxieme",
+      "statut": "troisieme",
+      "signal": "red",
+      "id": 2
+    },
+    {
+      "nom": "le pain doré ",
+      "adress": "33 rue de la chocolaterie",
+      "statut": "plein",
+      "signal": "red",
+      "id": 3
+    }
+  ]
+}
