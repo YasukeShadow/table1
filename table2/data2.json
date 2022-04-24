@@ -20,6 +20,83 @@
       "statut": "plein",
       "signal": "red",
       "id": 3
+    },
+    {
+      "nom": "carrefour",
+      "adress": "place de l'aliance",
+      "statut": "plein",
+      "signal": "red",
+      "id": 4
+    },
+    {
+      "nom": "",
+      "adress": "",
+      "statut": "",
+      "signal": "",
+      "id": 5
+    },
+    {
+      "nom": "",
+      "adress": "",
+      "statut": "",
+      "signal": "",
+      "id": 6
+    },
+    {
+      "nom": "",
+      "adress": "",
+      "statut": "",
+      "signal": "",
+      "id": 7
+    },
+    {
+      "nom": "dddd",
+      "adress": "ddddddd1",
+      "statut": "ok",
+      "signal": "green",
+      "id": 8
+    },
+    {
+      "nom": "",
+      "adress": "",
+      "statut": "",
+      "signal": "",
+      "id": 9
+    },
+    {
+      "nom": "effqsf",
+      "adress": "zererza",
+      "statut": "zearr",
+      "signal": "green",
+      "id": 10
+    },
+    {
+      "nom": "pompier",
+      "adress": "24 rue du centre",
+      "statut": "vide",
+      "signal": "green",
+      "id": 11
+    },
+    {
+      "nom": "",
+      "adress": "",
+      "statut": "",
+      "signal": "",
+      "id": 12
+    },
+    {
+      "nom": "",
+      "adress": "",
+      "statut": "",
+      "signal": "",
+      "id": 13
+    },
+    {
+      "nom": "",
+      "adress": "",
+      "statut": "",
+      "signal": "",
+      "id": 14
     }
   ]
 }
